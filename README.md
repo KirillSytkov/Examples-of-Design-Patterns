@@ -19,7 +19,7 @@ Created several code examples of design patterns:
 - Chain of resposibility
 - Command
 - Strategy
-- Observer
+- [Observer](Observer.playground/Contents.swift)
 - Template Method
 - Iterator
 - State
