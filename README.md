@@ -11,7 +11,7 @@ Created several code examples of design patterns:
 # Structural patterns
 - Adapter
 - Composite
-- [Decorator](Decorator/)
+- [Decorator](Decorator.playground/Contents.swift)
 - Facade
 - Proxy
 
